@@ -1,20 +1,20 @@
-<<<<<<< HEAD
-# React + Vite
+# 🚀 wahyudlp.dev | Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Framework - React](https://img.shields.io/badge/Framework-React-61DAFB.svg)](https://react.dev/)
+[![Build Tool - Vite](https://img.shields.io/badge/Build_Tool-Vite-646CFF.svg)](https://vitejs.dev/)
+[![Styling - Tailwind](https://img.shields.io/badge/Styling-Tailwind_CSS-38B2AC.svg)](https://tailwindcss.com/)
+[![Deployment - Vercel](https://img.shields.io/badge/Deployment-Vercel-000000.svg)](https://vercel.com/)
 
-Currently, two official plugins are available:
+Selamat datang di repositori kode sumber situs portofolio pribadi saya. Situs ini dibangun untuk memamerkan perjalanan teknis saya di bidang **AI/Deep Learning**, **DevOps**, dan **Software Engineering**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🛠️ Stack Teknologi
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Situs ini dibangun menggunakan teknologi web modern untuk performa dan skalabilitas maksimal:
+* **Frontend:** [React.js](https://react.dev/) & [Vite](https://vitejs.dev/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Linter/Formatting:** [ESLint](https://eslint.org/) & [PostCSS](https://postcss.org/)
+* **Deployment:** [Vercel](https://vercel.com/)
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# wahyudlp.dev
->>>>>>> 6069d025604792662dd24302fe7ff959682a63ba
+---
