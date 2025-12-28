@@ -334,7 +334,7 @@ function App() {
     {
       title: "TheraMind (CBT Platform)",
       desc: "A mental health intervention platform integrated with CBT modules, recognized as a National Finalist in the Gemastik UI/UX competition.",
-      images: ["/public/projects/CoverTheramind.png"],
+      images: ["/projects/CoverTheramind.png"],
       link: "https://www.figma.com/proto/fyQ4FMToUS4aT93sDkFEn0/UI-Design-TheraMind",
       demoType: "prototype",
       github: "https://github.com/WAHYUDLP/theramind-ux",
@@ -344,7 +344,7 @@ function App() {
     {
       title: "Smart Meal Planner",
       desc: "A data-driven nutrition management system designed to optimize meal planning through automated BMR calculations and personalized diet tracking.",
-      images: ["/public/projects/CoverBloodWellness2.png", "/public/projects/bloodwellness/page1.png", "/public/projects/bloodwellness/page2.png", "/public/projects/bloodwellness/page3.png", "/public/projects/bloodwellness/page4.png", "/public/projects/bloodwellness/page5.png", "/public/projects/bloodwellness/page6.png", "/public/projects/bloodwellness/page7.png"],
+      images: ["/projects/CoverBloodWellness2.png", "/projects/bloodwellness/page1.png", "/projects/bloodwellness/page2.png", "/projects/bloodwellness/page3.png", "/projects/bloodwellness/page4.png", "/projects/bloodwellness/page5.png", "/projects/bloodwellness/page6.png", "/projects/bloodwellness/page7.png"],
       link: null,
       demoType: "inactive",
       github: "https://github.com/WAHYUDLP/smart-meal-planner",
@@ -354,7 +354,7 @@ function App() {
     {
       title: "Plantify - Plant Care App",
       desc: "A sleek native Android guide for plant enthusiasts, built with modern Jetpack Compose for a responsive and intuitive care experience",
-      images: ["/public/projects/CoverPlantify.png"],
+      images: ["/projects/CoverPlantify.png"],
       link: "https://www.figma.com/proto/oglJL6WBa9ZLOX9Ig8uxzK/Plantify",
       demoType: "apk",
       github: "https://github.com/orgs/Plantify-PAPB/repositories",
@@ -374,7 +374,7 @@ function App() {
     {
       title: "Solar System Simulation",
       desc: "An interactive 3D celestial visualization crafted with C++ and OpenGL, focusing on orbital mechanics and real-time rendering performance",
-      images: ["/public/projects/tatasurya/all.png"],
+      images: ["/projects/tatasurya/all.png", "projects/tatasurya/jupiter.png"],
       link: null,
       demoType: "local",
       github: "https://github.com/WAHYUDLP/SolarSystem-OpenGL",
@@ -384,7 +384,7 @@ function App() {
     {
       title: "Pokemon Battle Game",
       desc: "A Java-based turn-based combat game that demonstrates robust Object-Oriented Programming (OOP) principles and Swing GUI implementation.",
-      images: ["/public/projects/gamepok/Login.png", "/public/projects/gamepok/Page 1.png", "/public/projects/gamepok/Page 2.png", "/public/projects/gamepok/Page 3.png", "/public/projects/gamepok/Page 4.png", "/public/projects/gamepok/Page 5.png", "/public/projects/gamepok/Page 6.png", "/public/projects/gamepok/Page 7.png"],
+      images: ["/projects/gamepok/Login.png", "/projects/gamepok/Page 1.png", "/projects/gamepok/Page 2.png", "/projects/gamepok/Page 3.png", "/public/projects/gamepok/Page 4.png", "/projects/gamepok/Page 5.png", "/projects/gamepok/Page 6.png", "/projects/gamepok/Page 7.png"],
       link: null,
       demoType: "local",
       github: "https://github.com/WAHYUDLP/MiniPokemon",
