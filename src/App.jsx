@@ -374,7 +374,7 @@ function App() {
     {
       title: "Solar System Simulation",
       desc: "An interactive 3D celestial visualization crafted with C++ and OpenGL, focusing on orbital mechanics and real-time rendering performance",
-      images: ["/projects/tatasurya/all.png", "projects/tatasurya/Jupiter.png"],
+      images: ["/projects/tatasurya/all.png", "/projects/tatasurya/Jupiter.png"],
       link: null,
       demoType: "local",
       github: "https://github.com/WAHYUDLP/SolarSystem-OpenGL",
